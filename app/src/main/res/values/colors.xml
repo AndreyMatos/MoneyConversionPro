@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD185</color>
+    <color name="colorPrimaryDark">#8190A5</color>
+    <color name="colorAccent">#3C4858</color>
+
+    <color name="colorSignInBtn1">#3C4858</color>
+    <color name="colorSignInBtn2">#8492A6</color>
+    <color name="colorSignInBtn3">#C0CCDA</color>
+
+    <color name="lineColorsSingin">#C0CCDA</color>
+</resources>
